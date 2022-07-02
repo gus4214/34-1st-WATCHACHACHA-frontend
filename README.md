@@ -45,6 +45,22 @@ SNS와 평정 데이터를 활용한 클래식 영화 백과사전 사이트인 
 
 <br>
 
+## 담당 필수구현 스크린샷
+https://user-images.githubusercontent.com/98795239/177004226-29be663d-1d52-49a8-97f8-1e1aeb27e3ba.mov 
+https://user-images.githubusercontent.com/98795239/177004259-dde7adde-1ca0-42f5-9375-9ed59ac106cc.mov
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
 ## 소통에 사용한 협업 툴
 ### Slack
 <img width="942" alt="스크린샷 2022-07-01 오후 3 48 13" src="https://user-images.githubusercontent.com/50426259/176840075-30907e6a-8be6-4914-88d3-fe0d3742ad9c.png">
