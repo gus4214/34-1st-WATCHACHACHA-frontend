@@ -45,15 +45,10 @@ SNS와 평정 데이터를 활용한 클래식 영화 백과사전 사이트인 
 
 <br>
 
-## 담당 필수구현 스크린샷
-https://user-images.githubusercontent.com/98795239/177004226-29be663d-1d52-49a8-97f8-1e1aeb27e3ba.mov 
-https://user-images.githubusercontent.com/98795239/177004259-dde7adde-1ca0-42f5-9375-9ed59ac106cc.mov
+## 담당 기능 MVP
 
-
-
-
-
-
+![로그인 효과 더 큰 화면 (1)](https://user-images.githubusercontent.com/98795239/177004527-ca256165-1530-497c-8247-f29d0e8879af.gif)
+![회원가입 효과 더 큰 화면  (1)](https://user-images.githubusercontent.com/98795239/177004786-4c1f9619-75b3-4087-be4f-e8b6727447ef.gif)
 
 
 
