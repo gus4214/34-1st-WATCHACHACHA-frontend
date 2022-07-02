@@ -1,7 +1,9 @@
 #  Watcha Classic
 - Front: 김민석, 김은경, 이현범
 - Back: 이태권, 박민하
-![image](https://user-images.githubusercontent.com/50426259/176836350-67dbc6fa-eee8-4f0e-b675-d9da0865a350.png)
+
+![스크린샷 2022-07-03 오전 1 29 42](https://user-images.githubusercontent.com/98795239/177008727-05420ea1-1bee-4eaa-ac63-5d5c9f9dc7fa.png)
+
 [시현 영상 보러가기](https://scrawny-opera-4c6.notion.site/ded2dbffac2140609d15bc3877219332)
 
 <br>
@@ -49,6 +51,11 @@ SNS와 평정 데이터를 활용한 클래식 영화 백과사전 사이트인 
 
 ![로그인 효과 더 큰 화면 (1)](https://user-images.githubusercontent.com/98795239/177004527-ca256165-1530-497c-8247-f29d0e8879af.gif)
 ![회원가입 효과 더 큰 화면  (1)](https://user-images.githubusercontent.com/98795239/177004786-4c1f9619-75b3-4087-be4f-e8b6727447ef.gif)
+
+- 정규표현식을 사용하여 객체 안에 로직을 선언 한 후 `map`메소드 안에서도 로그인, 회원가입 창 각각의 `input`에 로직을 전달 후 유효성 검사를 바탕으로 각각 효과를 구현 할 수 있었습니다.
+- 로그인, 회원가입 창에서 입력한 값을 2개의 `useState`로 저장 후 각각의 `input` 창에서 **삭제버튼** 클릭시 `value` 값을 지울 수 있도록 구현 했습니다. 
+
+
 
 
 
