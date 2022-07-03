@@ -2,7 +2,8 @@
 - Front: 김민석, 김은경, 이현범
 - Back: 이태권, 박민하
 
-![스크린샷 2022-07-03 오전 1 29 42](https://user-images.githubusercontent.com/98795239/177008727-05420ea1-1bee-4eaa-ac63-5d5c9f9dc7fa.png)
+![왓챠로고](https://user-images.githubusercontent.com/98795239/177035333-f286463f-b492-4117-877a-9935f32a14ae.png)
+
 
 [시현 영상 보러가기](https://scrawny-opera-4c6.notion.site/ded2dbffac2140609d15bc3877219332)
 
