@@ -5,7 +5,7 @@
 ![왓챠로고](https://user-images.githubusercontent.com/98795239/177035333-f286463f-b492-4117-877a-9935f32a14ae.png)
 
 
-## [시현 영상 보러가기](https://www.notion.so/2bca0db26df045699df07faa372a29b1)
+## [시현 영상 보러가기](https://youtu.be/wyzC6bq9Vw8)
 
 <br>
 
